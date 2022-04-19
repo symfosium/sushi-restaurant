@@ -1,1 +1,1 @@
-# sushi-restaurant
+Sushi Restaurant without adaptive
